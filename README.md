@@ -10,9 +10,6 @@ ___
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=devleandrorosa&show_icons=true&theme=github_dark"
   media="(prefers-color-scheme: dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=devleandrorosa&show_icons=true" />
-</picture>
 
 ___
 
