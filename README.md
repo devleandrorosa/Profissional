@@ -38,6 +38,7 @@ ___
 
 **[LINKEDIN](https://www.linkedin.com/in/devleandrorosa/)**
 
+## STATUS:
 
 <picture>
 <source 
@@ -51,5 +52,5 @@ ___
 <img src="https://github-readme-stats.vercel.app/api?username=devleandrorosa&show_icons=true" />
 </picture>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleandrorosa&layout=compact)
+___
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleandrorosa&layout=compact)
