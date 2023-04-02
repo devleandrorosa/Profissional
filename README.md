@@ -5,14 +5,11 @@ ___
 
 ## GITHUB STATUS:
 
-___
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devleandrorosa&theme=dark&show_icons=true)
-___
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devleandrorosa&theme=dark&show_icons=true&layout=compact&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleandrorosa&hide_progress=true&layout=compact&theme=github_dark)
 
-___
 ## Qualificações como developer:
 
 
