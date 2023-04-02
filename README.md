@@ -2,14 +2,14 @@
 
 ## CONTATOS: 
 
-E-mail - mailto:leandro.souza.f.lds@gmail.com
+* 📩 E-mail - [leandro.souza.f.lds@gmail.com](mailto:leandro.souza.f.lds@gmail.com)
 
-LinkeIn - https://www.linkedin.com/in/devleandrorosa/
+* 🪪 LinkeIn - https://www.linkedin.com/in/devleandrorosa/
 
-**APRESENTANDO SOBRE MIM:** 📖📚
-___
+## APRESENTANDO SOBRE MIM: 📖📚
 
-## GITHUB STATUS:
+
+**GITHUB STATUS:**
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devleandrorosa&theme=github_dark&show_icons=true&layout=compact)
@@ -36,7 +36,7 @@ ___
 
 ## Qualificações acadêmicas:
 
-**CONCLUÍDAS:**
+**CONCLUÍDOS:**
 
 * Curso técnico em adiministração, integrado ao ensino médio - IFF Itaperuna
 
