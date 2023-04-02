@@ -6,7 +6,7 @@ ___
 ## GITHUB STATUS:
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devleandrorosa&theme=dark&show_icons=true&layout=compact&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devleandrorosa&theme=dark&show_icons=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleandrorosa&hide_progress=true&layout=compact&theme=github_dark)
 
