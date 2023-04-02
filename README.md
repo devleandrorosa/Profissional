@@ -1,4 +1,6 @@
-# **Olá, apresentando sobre mim.** 
+# **SEJAM BEM VINDOS**
+
+*APRESENTANDO SOBRE MIM: 📖📚
 ___
 
 ## Qualificações como developer:
