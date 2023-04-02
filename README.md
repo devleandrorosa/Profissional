@@ -18,19 +18,21 @@ ___
 
 
 
-## Qualificações academicas concluídas:
+## Qualificações academicas:
+
+**CONCLUÍDAS:**
 
 * Curso técnico em adiministração, integrad ao ensino médio - IFF Itaperuna
 
 * Graduação tecnóloga em Processos Gerenciais - Estácio de sá
 
 
-## Qualificações academicas em andamento:
+**EM ANDAMENTO:**
 
 * Graduação em Direito - UniRedentor
 
 
 
-**LinkedIn:**
+**LINKEDIN:**
 
 https://www.linkedin.com/in/devleandrorosa/
