@@ -34,4 +34,4 @@ ___
 
 
 
-**[LINKEDIN]**(https://www.linkedin.com/in/devleandrorosa/)
+**[LINKEDIN](https://www.linkedin.com/in/devleandrorosa/)**
