@@ -1,4 +1,10 @@
-# **SEJAM BEM VINDOS**
+# **SEJAM BEM VINDOS!**
+
+## CONTATOS: 
+
+E-mail - mailto:leandro.souza.f.lds@gmail.com
+
+LinkeIn - https://www.linkedin.com/in/devleandrorosa/
 
 **APRESENTANDO SOBRE MIM:** 📖📚
 ___
@@ -10,7 +16,7 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleandrorosa&hide_progress=true&layout=compact&theme=github_dark)
 
-## Qualificações como developer:
+## Qualificações developer:
 
 
 * **CURSOS CONCLUÍDOS:**
@@ -28,7 +34,7 @@ ___
 
 
 
-## Qualificações academicas:
+## Qualificações acadêmicas:
 
 **CONCLUÍDAS:**
 
@@ -43,5 +49,5 @@ ___
 
 
 
-**[LINKEDIN](https://www.linkedin.com/in/devleandrorosa/)**
+
 
