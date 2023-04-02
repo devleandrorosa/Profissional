@@ -1,4 +1,4 @@
-# **Olá, vou apresentar um pouco sobre mim.** 
+# **Olá, apresentando sobre mim.** 
 ___
 
 ## Qualificações como developer:
