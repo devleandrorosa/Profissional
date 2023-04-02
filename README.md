@@ -1,6 +1,6 @@
 # **SEJAM BEM VINDOS**
 
-*APRESENTANDO SOBRE MIM: 📖📚
+**APRESENTANDO SOBRE MIM:** 📖📚
 ___
 
 ## Qualificações como developer:
