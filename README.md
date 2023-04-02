@@ -5,7 +5,7 @@ ___
 
 ## GITHUB STATUS:
 
-:---: | :---:
+___
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=devleandrorosa&show_icons=true&theme=github_dark"
@@ -13,10 +13,12 @@ ___
 />
 <img src="https://github-readme-stats.vercel.app/api?username=devleandrorosa&show_icons=true" />
 </picture>
-|
+
+___
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleandrorosa&hide_progress=true&layout=compact&theme=github_dark)
 
-
+___
 ## Qualificações como developer:
 
 
