@@ -6,16 +6,16 @@ ___
 
 * **CURSOS CONCLUÍDOS:**
 
-* - [x] Algoritmos - Curso em vídeo - Gustavo Guanabara
+* Algoritmos - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com)
 
-* - [x] Git e Github - Curso em vídeo - Gustavo Guanabara 
+* Git e Github - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com) 
 
 
 * **CURSOS EM ANDAMENTO:**
 
-* - [] HMTL5, CSS3 e JavaScript - Curso em vídeo - Gustavo Guanabara
+* HMTL5, CSS3 e JavaScript - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com)
 
-* - [] PHP Básico - Curso em vídeo - Gustavo Guanabara
+* PHP Básico - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com)
 
 
 
@@ -34,4 +34,4 @@ ___
 
 
 
-**LINKEDIN** - https://www.linkedin.com/in/devleandrorosa/
+**[LINKEDIN]**(https://www.linkedin.com/in/devleandrorosa/)
