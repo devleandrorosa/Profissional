@@ -3,6 +3,20 @@
 **APRESENTANDO SOBRE MIM:** 📖📚
 ___
 
+## GITHUB STATUS:
+
+:---: | :---:
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=devleandrorosa&show_icons=true&theme=github_dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=devleandrorosa&show_icons=true" />
+</picture>
+|
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleandrorosa&hide_progress=true&layout=compact&theme=github_dark)
+
+
 ## Qualificações como developer:
 
 
@@ -38,15 +52,3 @@ ___
 
 **[LINKEDIN](https://www.linkedin.com/in/devleandrorosa/)**
 
-## STATUS:
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=devleandrorosa&show_icons=true&theme=github_dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=devleandrorosa&show_icons=true" />
-</picture>
-
-___
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleandrorosa&hide_progress=true&layout=compact&theme=github_dark)
