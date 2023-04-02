@@ -6,11 +6,8 @@ ___
 ## GITHUB STATUS:
 
 ___
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=devleandrorosa&show_icons=true&theme=github_dark"
-  media="(prefers-color-scheme: dark)"
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devleandrorosa&theme=dark&show_icons=true)
 ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleandrorosa&hide_progress=true&layout=compact&theme=github_dark)
