@@ -12,10 +12,8 @@
 
 **GITHUB STATUS:**
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devleandrorosa&theme=github_dark&show_icons=true&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleandrorosa&hide_progress=true&layout=compact&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devleandrorosa&theme=github_dark&show_icons=true) _
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleandrorosa&hide_progress=true&theme=github_dark)
 
 
 
