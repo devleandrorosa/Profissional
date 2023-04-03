@@ -1,5 +1,6 @@
 # **SEJAM BEM VINDOS!**
 
+
 ## CONTATOS: 
 
 * 📩 E-mail - [leandro.souza.f.lds@gmail.com](mailto:leandro.souza.f.lds@gmail.com)
@@ -15,6 +16,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devleandrorosa&theme=github_dark&show_icons=true&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleandrorosa&hide_progress=true&layout=compact&theme=github_dark)
+
+
 
 ## Qualificações developer:
 
@@ -46,8 +49,3 @@
 **EM ANDAMENTO:**
 
 * Graduação em Direito - UniRedentor
-
-
-
-
-
