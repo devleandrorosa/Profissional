@@ -1,4 +1,4 @@
-# **SEJAM BEM VINDOS!**
+# **SEJAM BEM VINDOS AO MEU PERFIL GITHUB!**
 
 
 ## CONTATOS: 
@@ -21,7 +21,7 @@
 ## Qualificações developer:
 
 
-* **CURSOS CONCLUÍDOS:**
+* **CURSOS CONCLUÍDOS:**✅
 
 * Algoritmos - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com)
 
@@ -38,7 +38,7 @@
 
 ## Qualificações acadêmicas:
 
-**CONCLUÍDOS:**
+**CONCLUÍDOS:**✅
 
 * Curso técnico em adiministração, integrado ao ensino médio - IFF Itaperuna
 
