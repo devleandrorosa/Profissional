@@ -38,7 +38,7 @@
 
 ## Qualificações acadêmicas:
 
-**CONCLUÍDOS:**✅
+**CONCLUÍDOS:** ✅
 
 * Curso técnico em adiministração, integrado ao ensino médio - IFF Itaperuna
 
