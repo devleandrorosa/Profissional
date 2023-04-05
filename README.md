@@ -21,7 +21,7 @@
 ## Qualificações developer:
 
 
-* **CURSOS CONCLUÍDOS:**✅
+* **CURSOS CONCLUÍDOS:** ✅
 
 * Algoritmos - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com)
 
