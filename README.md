@@ -43,8 +43,3 @@
 * Curso técnico em adiministração, integrado ao ensino médio - IFF Itaperuna
 
 * Graduação tecnóloga em Processos Gerenciais - Estácio de sá
-
-
-**EM ANDAMENTO:**
-
-* Graduação em Direito - UniRedentor
