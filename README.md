@@ -23,17 +23,18 @@
 
 ✅ **CURSOS CONCLUÍDOS:** 
 
-* Algoritmos - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com)
+* Algoritmos - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com/curso/curso-de-algoritmo/)
 
-* Git e Github - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com) 
+* Git e Github - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) 
 
 
 **CURSOS EM ANDAMENTO:**
 
-* HMTL5, CSS3 e JavaScript - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com)
+* HMTL5, CSS3 e JavaScript - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com/curso/html5-css3-modulo1/)
 
-* PHP Básico - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com)
+* HTML5 - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com/curso/html5/)
 
+* PHP Básico - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com/curso/php-basico/)
 
 
 ## Qualificações acadêmicas:
