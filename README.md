@@ -28,7 +28,7 @@
 * Git e Github - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) 
 
 
-**CURSOS EM ANDAMENTO:**
+🎯 **CURSOS EM ANDAMENTO:**
 
 * HMTL5, CSS3 e JavaScript - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com/curso/html5-css3-modulo1/)
 
