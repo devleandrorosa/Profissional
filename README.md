@@ -7,8 +7,6 @@
 
 * 🪪 LinkeIn - https://www.linkedin.com/in/devleandrorosa/
 
-## APRESENTANDO SOBRE MIM: 📖📚
-
 
 ## Qualificações developer:
 
