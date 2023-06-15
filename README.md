@@ -10,14 +10,6 @@
 ## APRESENTANDO SOBRE MIM: 📖📚
 
 
-**GITHUB STATUS:**
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devleandrorosa&theme=github_dark&show_icons=true) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleandrorosa&hide_progress=true&theme=github_dark)
-
-
-
 ## Qualificações developer:
 
 
