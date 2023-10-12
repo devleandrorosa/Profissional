@@ -17,16 +17,18 @@ src="https://i.imgur.com/ryESuZ5.png" style="height:18px; position:fixed; bottom
 
 ✅ **CURSOS CONCLUÍDOS:** 
 
-* Algoritmos - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com/curso/curso-de-algoritmo/)
+* [Algoritmos](https://www.cursoemvideo.com/curso/curso-de-algoritmo/) - Curso em vídeo - Gustavo Guanabara
 
-* Git e Github - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) 
+* [Git e Github](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) - Curso em vídeo - Gustavo Guanabara
 
-* HMTL5, CSS3 e JavaScript - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com/curso/html5/)
+* [HMTL5, CSS3 e JavaScript](https://www.cursoemvideo.com/curso/html5/) - Curso em vídeo - Gustavo Guanabara
 
 
 🎯 **CURSOS EM ANDAMENTO:**
 
-* PHP Básico - [Curso em vídeo - Gustavo Guanabara](https://www.cursoemvideo.com/curso/php-basico/)
+* [PHP Básico](https://www.cursoemvideo.com/curso/php-basico/) - Curso em vídeo - Gustavo Guanabara
+
+* [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/) - Udemy
 
 
 ## Qualificações acadêmicas:
@@ -35,4 +37,8 @@ src="https://i.imgur.com/ryESuZ5.png" style="height:18px; position:fixed; bottom
 
 * Curso técnico em adiministração, integrado ao ensino médio - IFF Itaperuna
 
-* Graduação tecnóloga em Processos Gerenciais - Estácio de sá
+* [Graduação tecnóloga em Processos Gerenciais](https://matriculas.estacio.br/graduacao/processos-gerenciais) - Estácio de sá
+
+🎯 **CURSOS EM ANDAMENTO:**
+
+* [Pós-Graduação em Tecnologias e Inovações Web](https://ava.pos.unifaveni.com.br/course/tecnologias-e-inovacoes-web-750-horas/) - Faveni
