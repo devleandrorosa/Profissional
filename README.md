@@ -23,10 +23,10 @@ src="https://i.imgur.com/ryESuZ5.png" style="height:18px; position:fixed; bottom
 
 * [HMTL5, CSS3 e JavaScript](https://www.cursoemvideo.com/curso/html5/) - Curso em vídeo - Gustavo Guanabara
 
+* [PHP Básico](https://www.cursoemvideo.com/curso/php-basico/) - Curso em vídeo - Gustavo Guanabara
+
 
 🎯 **CURSOS EM ANDAMENTO:**
-
-* [PHP Básico](https://www.cursoemvideo.com/curso/php-basico/) - Curso em vídeo - Gustavo Guanabara
 
 * [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/) - Udemy
 
